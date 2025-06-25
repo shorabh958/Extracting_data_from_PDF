@@ -8,6 +8,8 @@ It supports:
 - Serial numbers and page numbers
 - Colab-style logs on the Streamlit interface 💻
 
+A Streamlit-based tool that extracts structured section headers, main headings, and subheadings (like Type of Check) from PDF Quality Assurance documents. Upload any QA PDF to get a clean, serial-wise structure with logs and page references.
+
 ## 🖼 Example Output
 
 ![image](https://github.com/user-attachments/assets/948a2e09-b995-4f86-bced-f4ee97d87072)
@@ -16,5 +18,6 @@ It supports:
 
 ---
 
-## 🚀 Live Demo (Optional)
-If hosted via Streamlit Cloud / Localtunnel:
+## 🚀 Live Demo
+Localtunnel link: https://some-towns-read.loca.lt/
+pass: 35.221.30.137
