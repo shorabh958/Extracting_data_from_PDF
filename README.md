@@ -10,9 +10,9 @@ It supports:
 
 ## 🖼 Example Output
 
+![image](https://github.com/user-attachments/assets/948a2e09-b995-4f86-bced-f4ee97d87072)
 ![image](https://github.com/user-attachments/assets/2ecd09c0-3650-4412-a094-96572dc40353)
 ![image](https://github.com/user-attachments/assets/315e6c97-c59c-4338-9eed-a2f26c94d595)
-
 
 ---
 
